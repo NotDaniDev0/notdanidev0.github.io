@@ -149,6 +149,9 @@ section .mybutton:hover {
 .par {
     margin-top: 500px;
     height: 650px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    
 }
 
 footer {
