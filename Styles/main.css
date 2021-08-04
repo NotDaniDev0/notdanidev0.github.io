@@ -90,7 +90,7 @@ section nav {
 }
 
 section .mybutton {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-size: 24px;
     color: #151D21;
     background: #ff7a7a;
