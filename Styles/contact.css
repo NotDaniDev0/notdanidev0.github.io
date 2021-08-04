@@ -119,6 +119,7 @@ figure img:hover {
 
 footer {
     font-family: 'Roboto', sans-serif;
+    font-weight: 100;
     text-align: center;
     background-attachment: scroll;
     background-position: 0% 0%;
